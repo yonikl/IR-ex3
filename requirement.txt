@@ -1,0 +1,8 @@
+torch
+pandas
+numpy
+transformers
+openpyxl
+emoji
+sentencepiece
+protobuf
