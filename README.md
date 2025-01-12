@@ -1,13 +1,11 @@
-# Sentiment Analysis Report
+# Information Retrieval Assignment 3 - Sentiment Analysis Report—README
 
-## Team Information
-**Students and IDs:**
-- Student 1: [ID Number]
-- Student 2: [ID Number]
-- Student 3: [ID Number]
+## Students Information
+- Names: Moshe Shahar, Yonatan Klein
+- IDs: 211692165, 322961764
 
 ## Project Overview
-This project involves performing sentiment analysis on articles from various newspapers. Using multiple pre-trained sentiment analysis models, we analyzed the content to classify articles into categories (e.g., Positive, Negative, Neutral). The goal was to extract meaningful insights about the sentiment distribution across different newspapers and assess the behavior of reporters and their writing styles.
+This project involves performing sentiment analysis in the context of pro-Israeli or pro-Palestinian, on articles from various newspapers. Using multiple pre-trained sentiment analysis models, we analyzed the content to classify articles into categories (e.g., Positive, Negative, Neutral). The goal was to extract meaningful insights about the sentiment distribution across different newspapers and assess the behavior of reporters and their writing styles.
 
 ## Methodology
 ### Steps Taken:
@@ -71,7 +69,3 @@ Displayed the distribution of sentiment scores across all articles.
 ### Common Errors:
 - **Misclassification**: Ambiguous sentences were often misclassified.
 - **Keyword Filtering**: Over-reliance on specific keywords led to missing nuanced sentiments.
-
-### Suggestions:
-- Use advanced context-aware models like GPT-based sentiment classifiers.
-- Perform manual validation for ambiguous or high-stakes articles.
